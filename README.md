@@ -120,7 +120,3 @@ The script handles:
 - All branches and tags are imported
 - Repository history is preserved
 - Large repositories may take time to import
-
-## License
-
-MIT
